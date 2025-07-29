@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#595959"              # muted charcoal for buttons/sliders
+backgroundColor = "#f6f6f6"           # light gray backdrop
+secondaryBackgroundColor = "#e0e0e0"  # sidebar/input background
+textColor = "#333333"                 # dark gray, easy on the eyes
+font = "serif"                        # matches Spectral or Hepta Slab family
